@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Gleb Cheprasov — technology architecture and AI/Data leadership</title>
+  <desc id="desc">Profile banner for an ACG Partner working across technology architecture, AI and data, digital platforms, and production delivery.</desc>
+  <rect width="1200" height="360" rx="24" fill="#101820"/>
+  <rect x="48" y="48" width="5" height="264" rx="2.5" fill="#C7A96B"/>
+  <path d="M88 64h1024" stroke="#2C3741"/>
+  <text x="88" y="128" fill="#F5F0E6" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700">Gleb Cheprasov</text>
+  <text x="90" y="174" fill="#C7A96B" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="600" letter-spacing="2">ACG PARTNER</text>
+  <text x="90" y="236" fill="#E5E1D8" font-family="Arial, Helvetica, sans-serif" font-size="25">Technology Architecture  ·  AI / Data  ·  Digital Platforms</text>
+  <text x="90" y="282" fill="#AAB3BA" font-family="Arial, Helvetica, sans-serif" font-size="22">SRE / Production Delivery</text>
+  <circle cx="1082" cy="250" r="54" fill="none" stroke="#C7A96B" stroke-width="2" opacity=".65"/>
+  <circle cx="1082" cy="250" r="32" fill="none" stroke="#65717B" stroke-width="2"/>
+  <circle cx="1082" cy="250" r="6" fill="#C7A96B"/>
+</svg>
