@@ -6,7 +6,7 @@
 
 > Technology architect and engineering leader focused on AI/Data platforms, digital systems, SRE, and production-grade delivery.
 
-[Avdyushin Consulting Group](https://avdyushin-ru.vercel.app/ru) · [Telegram](https://t.me/Cokol888) · [LinkedIn](https://clck.ru/3RbcBJ) · [Email](mailto:gleb.kak2@yandex.ru)
+[Avdyushin Consulting Group](https://avdyushin.ru) · [Telegram](https://t.me/Cokol888) · [LinkedIn](https://clck.ru/3RbcBJ) · [Email](mailto:gleb.kak2@yandex.ru)
 
 ## About
 
